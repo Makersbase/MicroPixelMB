@@ -1,6 +1,4 @@
 function MaakSprite (tekst: string) {
-    strip.clear()
-    strip.show()
     if (20 < tekst.length) {
         lengte = 255
         positie = 0
